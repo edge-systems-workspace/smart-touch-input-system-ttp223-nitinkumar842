@@ -10,7 +10,7 @@
  * and displays structured output via Serial Monitor.
  */
 
-// TODO 1:
+// TODO  1:
 // Define touch sensor digital pin (Use pin 2)
 #define TOUCH_PIN 2
 
